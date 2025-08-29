@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://v2.nonebot.dev/store"><img src="https://github.com/A-kirami/nonebot-plugin-template/blob/resources/nbp_logo.png" width="180" height="180" alt="NoneBotPluginLogo"></a>
-  <img src="wr_avatar.jpg" width="180">
+  <img src="https://github.com/captain-wangrun-cn/wr-nonebot-plugin-template/blob/resources/wr_avatar.jpg" width="180">
   <br>
   <p><img src="https://github.com/A-kirami/nonebot-plugin-template/blob/resources/NoneBotPlugin.svg" width="240" alt="NoneBotPluginText"></p>
 </div>
